@@ -1,0 +1,18 @@
+{
+  "name": "insightfulpipe-b2b-sales",
+  "owner": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "metadata": {
+    "description": "20 free Claude skills for B2B sales and marketing: cold email, LinkedIn outreach, ABM, lead scoring and handoff, prospect lists, sales decks, proposals and objection handling.",
+    "version": "2026.10.3107"
+  },
+  "plugins": [
+    {
+      "name": "insightfulpipe-b2b-sales",
+      "description": "20 free Claude skills for B2B sales and marketing: cold email, LinkedIn outreach, ABM, lead scoring and handoff, prospect lists, sales decks, proposals and objection handling.",
+      "source": "./"
+    }
+  ]
+}
