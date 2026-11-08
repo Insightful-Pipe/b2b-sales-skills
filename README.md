@@ -50,7 +50,7 @@ Download a skill's ZIP from its page on insightfulpipe.com (the **Page** links b
 | [Sales Follow Up Writer](skills/sales-follow-up-writer/) | Writes one-to-one sales follow-up emails for open deals from call notes, like the demo recap, proposal chasers and a polite last email, with when each is due. | [Page](https://insightfulpipe.com/marketing-claude-skills/sales/sales-follow-up-writer) |
 | [Sales One-Pager Writer](skills/sales-one-pager-writer/) | Writes a one-page sales sheet for one persona or industry, a solution brief, why-us comparison or customer result sheet, with sourced proof, benefits ranked by buyer… |  |
 | [Sales Playbook Builder](skills/sales-playbook-builder/) | Builds a sales playbook from a CRM export, sequence report and call notes, with who to target, deal stages, weekly activity targets worked back from quota and a… |  |
-| [Sales Proposal and RFP Response Writer](skills/sales-proposal-writer/) | Writes B2B sales proposals with priced options from discovery notes, and RFP responses with a compliance matrix and a bid or no-bid score before any answer, every claim… |  |
+| [Sales Proposal Writer](skills/sales-proposal-writer/) | Writes B2B sales proposals with priced options from discovery notes, and RFP responses with a compliance matrix and a bid or no-bid score before any answer, every claim… | [Page](https://insightfulpipe.com/marketing-claude-skills/sales/sales-proposal-writer) |
 
 ## Live data (optional)
 
