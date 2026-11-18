@@ -32,7 +32,7 @@ Download a skill's ZIP from its page on insightfulpipe.com (the **Page** links b
 | Skill | What it does | |
 |---|---|---|
 | [Abm Program Planner](skills/abm-program-planner/) | Plans an account-based marketing (ABM) program from your target account list and closed deals. | [Page](https://insightfulpipe.com/marketing-claude-skills/sales/abm-program-planner) |
-| [B2B Demand Generation Planner](skills/b2b-demand-gen-planner/) | Plans B2B demand generation backwards from a revenue target, working out deals, SQLs, MQLs and leads from your own CRM rates, then splits channels and outbound into a… |  |
+| [B2B Demand Gen Planner](skills/b2b-demand-gen-planner/) | Plans B2B demand generation backwards from a revenue target, working out deals, SQLs, MQLs and leads from your own CRM rates, then splits channels and outbound into a… | [Page](https://insightfulpipe.com/marketing-claude-skills/sales/b2b-demand-gen-planner) |
 | [B2B Lead Enrichment](skills/b2b-lead-enrichment/) | Cleans, enriches and scores B2B lead lists from Google Sheets, Airtable or a paste for ICP fit, maps decision makers, drafts cold emails and watches target accounts for… | [Page](https://insightfulpipe.com/marketing-claude-skills/marketing/b2b-lead-enrichment) |
 | [B2B Prospect List Builder](skills/prospect-list-builder/) | Builds a B2B prospect list of real companies from business listings, ad libraries, search results and app stores, each with dated evidence and a reason to reach out… |  |
 | [Closed Lost Deal Re-engagement Planner](skills/lost-deal-reengagement/) | Ranks closed lost deals worth another try, codes each loss cause, dates the retry from it and checks accounts for signs of change, then drafts owner notes, a nurture… |  |
